@@ -44,7 +44,7 @@ This option is checked by default.
 
 ## Examples
 <p align="center">
-  <img src="images/example.png" alt="Google Tag Manager Example" width="250" />
+  <img src="images/example.png" alt="Google Tag Manager Example" width="450" />
 </p>
 
 ### Example 1
