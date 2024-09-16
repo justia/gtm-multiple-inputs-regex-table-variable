@@ -1,5 +1,9 @@
 # Google Tag Manager 'Multiple Inputs RegEx Table' Variable Template
 
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/justia/templates/gtm-multiple-inputs-regex-table-variable) ![Repo Size](https://img.shields.io/github/repo-size/justia/gtm-multiple-inputs-regex-table-variable) ![License](https://img.shields.io/github/license/justia/gtm-multiple-inputs-regex-table-variable)
+
+---
+
 ## Summary
 
 This repository contains a [Google Tag Manager Variable template](https://developers.google.com/tag-manager/templates) similar to a [RegEx Table](https://j.st/4VwZ), with the addition of being able to use multiple variables as input. This is an excellent resource about how to use a [RegEx Table](https://www.simoahava.com/analytics/the-regex-table-variable-in-google-tag-manager/). You will be able to make use of the same functionality, with the addition ability of using multiple inputs.
